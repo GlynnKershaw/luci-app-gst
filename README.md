@@ -10,3 +10,5 @@ There are several functions:
 * Block all servers (theoretically)
 * Unblock all servers
 * List blocked subnets
+
+All code already written and functional. Publication is contingent on me finding a suitable license and setting up an efficient development enviroment (for writing setup scripts for other developers).
